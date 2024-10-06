@@ -1,250 +1,169 @@
-Verse: Death Game
-Date: (The date this sheet was completed.)
+# Character Profile: Sydney Lane (Death Game)
 
-Full Name: Sydney Lane
-Pronunciation: (Self explanatory)
-Nickname/Alias: Syd
-Meaning:  Wisdom & Strategy
-Origin: (How did you come up with your character's name?)
-Title: Lady (Family Owns Dukedom)
-Pet Name: Galileo 
-ID Number: 
-Signature: very messy handwriting, writes mainly with her left hand, and writes backwards in her journals. 
+### Basic Information
+- **Full Name:** Sydney Lane  
+- **Pronunciation:** (Self-explanatory)  
+- **Nickname/Alias:** Syd  
+- **Meaning:** Wisdom & Strategy  
+- **Origin:** (How did you come up with your character's name?)  
+- **Title:** Lady (Family Owns Dukedom)  
+- **Pet Name:** Galileo  
+- **ID Number:** (To be added)  
+- **Signature:** Very messy handwriting, mainly writes with her left hand and backwards in journals.  
 
-Gender: Female
-Gender Role: Feminine 
-Orientation: Straight
-Real Age: 33
-Age Appearance: Natural Age
-Birthday: October 8th 
-Death day: (May not have one yet)
-Birthplace: Guangdong Province 
-Astrological Sign: Libra
+### Personal Information
+- **Gender:** Female  
+- **Gender Role:** Feminine  
+- **Orientation:** Straight  
+- **Real Age:** 33  
+- **Age Appearance:** Natural age  
+- **Birthday:** October 8th  
+- **Death Day:** (May not have one yet)  
+- **Birthplace:** Guangdong Province  
+- **Astrological Sign:** Libra  
+- **Zodiac Sign:** Dragon  
 
-Zodiac Sign: Dragon 
+### Family
+- **Immediate Family:** Fabian Morrison (Father), Robin Lane (Mother)  
+- **Distant Family:** (The ones they don't see every day)  
+- **Parenting:** Very strict about education  
+- **Upbringing:** Laws, statutes, and commandments in a Christian family  
+- **Infancy:**  
+- **Childhood:**  
+- **Adolescence:**  
+- **Adulthood:**  
+- **Coming of Age:**  
+- **Evolution:**  
 
-Immediate Family: Fabian Morrison (Father), Robin Lane (Mother)
-Distant Family: (The ones they don't see every day)
-Parenting: Very Strict about education
-Upbringing: laws, statues, and commandments, Christian Family
-Infancy: 
-Childhood: 
-Adolescence: 
-Adulthood: 
-Coming of Age: 
-Evolution: 
+### Physical Traits
+- **Species:** Human  
+- **Ethnicity:** Black  
+- **Blood Type:** AB+  
+- **Preferred Hand:** Ambidextrous  
+- **Facial Type:** Oval  
+- **Eye Color:** Green  
+- **Hair Color:** Brown  
+- **Hairstyle:** Long, wavy with a side part  
+- **Skin Tone:** Medium to dark brown  
+- **Complexion:** Clear, smooth texture  
+- **Makeup:** Subtle, natural look; slight eyeliner, nude lip gloss  
+- **Body Type:** Ectomorph (Lean build)  
+- **Build:** Slim, delicate frame, slightly long neck, defined cheekbones  
+- **Height:** 5ft 6in (66 inches)  
+- **Weight:** 125 pounds  
+- **Cup Size:** B  
+- **Facial Hair:** None  
+- **Shoe Size:** 8 US (Women’s)  
+- **Birthmarks/Scars:** N/A  
+- **Distinguishing Features:** Striking green eyes, often complimented for them.  
 
-Species: Human
-Ethnicity: Black
-Blood Type: AB+
-Preferred Hand: ambidextrous 
-Facial Type: Oval
-Eye Color: Green Eyes
-Hair Color: Brown Hair
-Hairstyle: Long Wavy with a side part
-Skin Tone: Medium to dark brown
-Complexion: Clear with a smooth texture
-Makeup: Subtle, natural look; slight eyeliner, with a nude lip gloss
-Body Type: Ectomorph (Learn Build)
-Build: Slim with a delicate frame, slightly long neck, and defined cheekbones
-Height: 5ft. 6 inches (66 inches)
-Weight: 125 pounds
-Cup Size: B Cup
-Facial Hair: None
-Shoe Size: 8 US Women’s size
-Birthmarks/scars: N/A
-Distinguishing Features: Striking green eyes which she commonly is complimented for. 
+### Health
+- **Health:** Top-of-the-line free healthcare, follows an alkaline diet  
+- **Energy:** Very high, occasionally drinks coffee for a boost, former Adderall addict  
+- **Memory:** Eidetic  
+- **Senses:** (To be added)  
+- **Allergies:** None  
+- **Handicaps:** None  
+- **Medication:** Cortilox for Chrona Malady  
+- **Phobias:** (To be added)  
+- **Addictions:** Former Adderall addict  
+- **Mental Disorders:** Depression, Bipolar Disorder  
 
-Health: Has top of the line free health care and lives off a alkaline diet. 
-Energy: Very high energy and frequently takes coffee when a boost is needed, has previously been a Adderall addict. 
-Memory: Eidetic Memory 
-Senses: (Are any of your character's senses better or worse than others?)
-Allergies: No allergies 
-Handicaps: No handicaps 
-Medication: is on Cortilox after being diagnosed with Chrona Malady 
-Phobias: 
-Addictions: Has been addicted to Adderall in the past. 
-Mental Disorders: Depression, Bipolar Disorder 
+### Appearance & Style
+- **Mode of Dress:** (To be added)  
+- **Grooming:** Very well-kept unless in a depressive state  
+- **Posture:** (To be added)  
+- **Gait:** (To be added)  
+- **Coordination:** (To be added)  
+- **Habits and Mannerisms:** (To be added)  
+- **Scent:** (To be added)  
 
-Style: 
-Mode of Dress: 
-Grooming: Very Well-Kept unless in a depressed state. 
-Posture: 
-Gait: 
-Coordination: 
-Habits and Mannerisms: 
-Scent: 
+### Personality
+- **Mood:** (To be added)  
+- **Attitude:** (To be added)  
+- **Stability:** (To be added)  
+- **Expressiveness:** (To be added)  
+- **When Happy:** (To be added)  
+- **When Depressed:** Smokes outside, meditates  
+- **When Angry:** Locks herself in her lab, works tirelessly  
+- **Note:** These are generalizations; reactions vary by situation.  
 
-Mood: 
-Attitude: 
-Stability: 
-Expressiveness: 
-When Happy: 
-When Depressed: has a cig outside and meditates. 
-When Angry: locks herself in her lab and works tirelessly at her goals.
-Note: These are generalizations. Different situations will create different reactions.
+### Residence & Community
+- **Current Residence:** (To be added)  
+- **Community:** (To be added)  
+- **Family:** Terje Håkonsen (Norwegian Snowboarder)  
+- **Rivals:** (To be added)  
+- **Relates to:** (To be added)  
+- **Pets/Familiars:** 2 border collies, bred since she was 14, also has horses, cows, etc.  
 
-Current Residence: 
-Community: (What does the general population act like where your character lives?)
-Family: 
+### Wardrobe & Equipment
+- **Wardrobe:** (To be added)  
+- **Equipment:** Advanced AI intelligence named MILA  
+- **Accessories:** (To be added)  
+- **Trinkets:** (To be added)  
+- **Funds:** (To be added)  
+- **Home:** Classical-style mansion  
+- **Neighborhood:** (To be added)  
+- **Transportation:** (To be added)  
+- **License Plate Number:** (To be added)  
+- **Collections:** (To be added)  
+- **Most Valuable Possession:** (To be added)  
+- **Prized Possession:** (To be added)  
 
-- Terje Håkonsen (Norwegian Snowboarder)
-Rivals: (Who are they competing with?)
+### Career & Education
+- **Occupation:** Head of Research  
+- **Income:** 
+    - Head of Research: $450,000/year  
+    - Optic: Stock options  
+    - Decagram: $10,000,000/year  
+- **Wealth Status:** Upper Class (300M+ Net worth)  
+- **Experience:** (To be added)  
+- **Organizations/Affiliations:** 
+    - Founder of Lane Initiative for Global Advancement (LIGA)  
+    - Founder & Stockholder at Optic (Global Surveillance)  
+    - Head of Research at Moncler Life Sciences  
+    - Researcher at Decagram (International Top-Level Research Group)  
+- **IQ:** 203  
+- **Education:** 
+    - Grad Student with several PhDs, Masters, Honorary Degree  
+    - 5.0 GPA  
+    - Honor Role and Commencement Speech  
+- **Degrees:** 
+    - Honorary PhD in Pure Mathematics (Université Saint Croix)  
+    - Double PhD in Psychology and Theoretical Physics (Université Saint Croix)  
+    - Double Major in Pharmacology and Neuroscience (Moncler University)  
+    - Master’s in Genetics and Bioinformatics (Moncler University)  
+    - Minors in Molecular Biology and Immunology (Moncler University)  
+    - Studied Fashion at Prescott University  
 
-- 
-Relates to: 
-Pets/Familiars: Sydney has 2 border collies, and she has been pure breeding them since she was 14. She also has horses, cows, ect. 
-Wardrobe: 
-Equipment: Sydney has a advanced ai intelligence named MILA. 
-Accessories: 
-Trinkets: 
-Funds: 
-Home: Sydney has several pieces of real estate but her main home is a Classical Style Mansion in .
-Neighborhood: 
-Transportation: 
-License Plate Number: 
-Collections: (Does your character like to hoard or collect anything?)
-Most valuable possession: (In money)
-Prized Possession: 
+### Hobbies & Interests
+- **Strengths:** Chess, Poker, Xiangqi  
+- **Favorite Shows:** (To be added)  
+- **Favorite Music:** (To be added)  
+- **Favorite Songs:** 
+    - "The Art of Fugue" by Johann Sebastian Bach  
+    - "Grosse Fuge, Op. 133" by Ludwig van Beethoven  
+    - "Symphony No. 9 in D Minor, Op. 125" by Ludwig van Beethoven  
+    - "Quartet for the End of Time" by Olivier Messiaen  
+    - "Le Sacre du Printemps" by Igor Stravinsky  
+    - "Liebestod" from *Tristan and Isolde* by Richard Wagner  
+    - "Symphony No. 6 in B Minor, Op. 74" by Pyotr Ilyich Tchaikovsky  
+- **Favorite Sports:** Soccer, Cricket, Kendo  
+- **Favorite Subjects:** Harmonic Analysis  
+- **Favorite Numbers:** (To be added)  
 
-Lovers: 
-Marital Status: 
-Virginity:
-Element: (Fire/Water/Air/Earth)
+### Motivations & Goals
+- **Main Goal:** (To be added)  
+- **Minor Goals:** (To be added)  
+- **Desires:** (To be added)  
+- **Wishlist:** (To be added)  
+- **Accomplishments:** 
+    - Linguistic mastery by age 3 (Fluent in Mandarin, English, Afrikaans)  
+    - Mathematical prodigy by age 5  
+    - Polyglot by age 6 (French, Russian, German)  
+    - Musical prodigy by age 6  
+- **Defining Moment:** (To be added)  
+- **Tropes:** The Strongest (Gifted at nearly everything)  
+- **Originality:** (What makes Sydney unique?)  
+- **One Word:** (To be added)  
 
-Occupation: 
-Work Ethnic: 
-Rank: 
-Income: 
-
-- Head Of Research aat : $450,000 a Year 
-
-- Optic: $  Stock
-
-- Decagram: $10,000,000 a year 
-Wealth Status: Upper Class (300M+ Net worth) 
-Experience: (Include things like pasts jobs, or things that contributed to current occupation.)
-Organizations/Affiliations: 
-
-- Lane Initiative for Global Advancement (LIGA): Founder & Face Of Brand
-
-- Optic (Global Surveillance): Founder & Stock Holder
-
-- Moncler Life Sciences: Head Of Research
-
-- Decagram (International Top Level Research Group): Researcher
-
-IQ: 203
-Education: Grad Student with Several PhDs, Masters, a Honorary Degree and Notable Minors 
-School: Université Saint Croix, Moncler University, Prescott University 
-Grade: 5.0 GPA, Straight A’s
-Special Education: Honor Role, and Commencement Speech
-Social Stereotype: Nerd
-Degrees: 
-
-- Honorary PhD in Pure Mathematics from Université Saint Croix, awarded for her contributions to the Journal de la Croix
-
-- Double PhD in Psychology and Theoretical Physics from from Université Saint Croix
-
-- Double Major in Pharmacology and Neuroscience from Moncler University 
-
-- Minor in Molecular Biology from Moncler University 
-
-- Minor in Immunology Moncler University 
-
-- Master’s In Genetics from Moncler University
-
-- Master’s in Bioinformatics from Moncler University 
-
-- Studied Fashion at Prescott University 
-Intelligence (5.0): Linguistic (5.0), Logical (5.0), Musical (5.0), Spatial (5.0), Kinesthetic (2.0), Intrapersonal Intelligence (2.2), Intrapersonal Intelligence (1.8), Naturalist (5.0)
-
-Religion: Christian 
-Morals: 
-Crime Record: 
-Motivation: Fulfilling the objectives of the 1 person she could not save 
-Priorities: God, Love, The World
-Philosophy: Existentialist 
-Political Party: Conservative
-Etiquette: Sydney is well educated on old English, and modern etiquette and can easily adapt on the fly as she has spent time with multiple very wealth families in her time. 
-Culture: 
-Influences: 
-Relates to: (Who can your character relate to?)
-Traditions: 
-Superstitions: 
-
-Main Goal: 
-Minor Goals/Ambitions: 
-Career: Sydney’s dream job has always been a junior scientist at Moncler Sciences 
-Desires: 
-Wishlist: 
-Accomplishments: 
-
-- Linguistic Mastery by Age 3: Fluent in Mandarin, English, and Afrikaans by age 3
-
-- Mathematical Prodigy: By age 5, Sydney was solving complex algebraic equations and by age 6, she was creating her own mathematical theorems, contributing to major mathematical journals. 
-
-- Polyglot: By age 6, she achieved vocal and written mastery of the initial three languages plus French, Russian, and German.
-
-- Musical Prodigy: Took up piano, violin, and guitar at age 6, becoming a world-class soloist in each within just two years. She also composed major pieces performed by world-class orchestras.
-
-
-Dislikes: (What can't they stand?)
-Sense of Humor: 
-Pet Peeves: 
-Superstitions/Beliefs: (Does your character believe in conspiracy theories or aliens? Do they throw salt over their shoulder or knock on wood?)
-Dreams/Nightmares: (What do they dream about? [at night])
-Quirks: (The strange little things that your character does to make them unique. Ex: Sleeps with their feet on the pillow or runs their hand along a pole as they walk beside it.)
-Savvy: (What is your character particularly well-informed of? [Ex: Politically, nature)
-Can't understand: (Something they just can't get into, such as English literate or obsession with sports)
-Closet Hobby: (Something that your character likes but isn't too obvious.)
-Guilty Pleasure: (You know...)
-
-Strengths: 
-
-- Chess
-
-- Poker
-
-- Xiangqi 
-Favorite Shows:
-Favorite Music:
-Favorite Bands:
-Favorite Songs: 
-
-- The Art of Fugue (BWV 1080 by Johann Sebastian Bach)
-
-- Grosse Fuge, Op. 133 by Ludwig Van Beethoven 
-
-- Symphony No. 9 in D Minor, Op. 125 (Choral) by Ludwig van Beethoven 
-
-- Quartet for the End of Time by Olivier Messiaen
-
-- Erwartung, Op. 17 by Arnold Schoenberg
-
-- Le Sacre du Printemps  by Igor Stravinsky 
-
-- Liebestod from Tristan and Isolde by Richard Wagner 
-
-- Symphony No. 6 in B Minor, Op. 74 (Pathetique) by Pyotr Ilyich Tchaikovsky 
-
-- 
-Favorite Sports:
-
-- Soccer
-
-- Cricket 
-
-- Kendo 
-Favorite Stores:
-Favorite Subjects: 
-
-- Harmonic Analysis
-Favorite Numbers:
-
-
-
-Defining Moment: (This is it. The single greatest moment of your character, when they truly become alive.)
-Tropes: The Strongest (Gifted at nearly fucking everything) 
-Originality: (What makes your character different from one like them?
-One Word: 
